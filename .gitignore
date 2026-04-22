@@ -7,3 +7,4 @@ Submission/*.ipynb
 Submission/
 catboost_info/
 dump/*.csv
+Notebook/models_v5/*.pkl
