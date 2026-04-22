@@ -2,3 +2,8 @@ dataset/*.csv
 dataset/
 *.csv
 catboost_info/
+Submission/*.csv
+Submission/*.ipynb
+Submission/
+catboost_info/
+dump/*.csv
